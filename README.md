@@ -1,7 +1,7 @@
 <p>Hello, my name is Chelsea<p>
   <p>Please let me know if you have any questions about the code in my repositories. Each project should specify whether there are any environment variables or files not pushed to github which are required to run the code. If you need any help getting up and running please feel free to get in touch. chelsea.angelena.email@gmail.com</p>
 
-<p>If you'd like to, you can visit my portfolio site: <a href="https://www.chelsea-angelena.com">here.</a> Or, if you're not into clicking links, this is the address: https://www.chelsea-angelena.com</p>
+<p>If you'd like to, you can visit my portfolio site: <a href="https://www.chelsea-angelena.com">here.</a> Or, if you're not into clicking links, this is the address: www.chelsea-angelena.com</p>
 
 
 
