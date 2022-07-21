@@ -5,7 +5,7 @@
 
 <p>My preferred tech-stack is NestJS with TypeORM and Postgresql + React/Tailwind</p>
 
-<p>Please get in touch if you would like to colloborate!</p>
+<p>Please get in touch if you would like to colloborate, have questions, etc. I'm always happy to learn something new 😁 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelsea-angelena&label=Profile%20views&color=0e75b6&style=flat" alt="chelsea-angelena" /> </p>
 
@@ -22,10 +22,6 @@
 <!-- - 📄 Know about my experiences [www.chelseaangelena.com/resume](www.chelseaangelena.com/resume) -->
 
 - ⚡ Fun facts **I like to forage for herbs and make tinctures/teas/salves when I'm not on the computer. I have a tiny chihuahua, who despite being only 4 lbs is very much the boss of me, and I adore with her all of my heart ♥️ 🐾 ♥️**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
