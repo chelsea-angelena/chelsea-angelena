@@ -1,27 +1,9 @@
 <h1 align="left">Hi 👋, I'm Chelsea</h1>
-<p align="left">I am a fullstack JavaScript/TypeScript developer from Victoria, British Columbia</p> 
-<p>For the past year and a half I've been a developer at FreshWorks Studio, and since our recent merge I am now a consultant (software developer) at Ernst and Young Design Studio.</p>
+<p align="left">I am a fullstack developer from Victoria, British Columbia</p> 
+
 <p>These projects are pretty outdated, but I hope to add something new soon!</p>
 
-<p>My preferred tech-stack is NestJS with TypeORM and Postgresql + React/Tailwind</p>
-
-<p>Please get in touch if you would like to colloborate, have questions, etc. I'm always happy to learn something new 😁 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chelsea-angelena&label=Profile%20views&color=0e75b6&style=flat" alt="chelsea-angelena" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chelsea-angelena" alt="chelsea-angelena" /></a> </p>
-
-- 🌱 I’m currently learning **GCP + Big Query, and in my spare time: Microservices in NestJS, Python and Flask**
-
-<!-- - 👨‍💻 All of my projects are available at [www.chelseaangelena.com](www.chelseaangelena.com) -->
-
-- 💬 Ask me about **React, React Native, building REST APIs with NestJS**
-
 - 📫 How to reach me **chelsea.angelena@gmail.com**
-
-<!-- - 📄 Know about my experiences [www.chelseaangelena.com/resume](www.chelseaangelena.com/resume) -->
-
-- ⚡ Fun facts **I like to forage for herbs and make tinctures/teas/salves when I'm not on the computer. I have a tiny chihuahua, who despite being only 4 lbs is very much the boss of me, and I adore with her all of my heart ♥️ 🐾 ♥️**
 
 <h3 align="left">Languages and Tools:</h3>
 
