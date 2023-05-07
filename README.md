@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Chelsea</h1>
 <p align="left">I am a fullstack developer from Victoria, British Columbia</p> 
-
-<p>These projects are pretty outdated, but I hope to add something new soon!</p>
+                               
 
 - 📫 How to reach me **chelsea.angelena@gmail.com**
 
